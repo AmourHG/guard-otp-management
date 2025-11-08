@@ -108,18 +108,6 @@ Bu proje, çeşitli platformlarda oyun hesabı satan satıcıların müşteriler
 | ![Veritabanı Şeması](./docs/architecture/architecture-4.png)     | **Veritabanı Şeması** – Kullanıcı, oyun, anahtar, guard code ve bildirim modelleri arasındaki ilişkileri ER diyagramı biçiminde gösterir. |
 
 
-## 🏗️ Mimari Dokümantasyon
-
-Sistemin detaylı mimari yapısı, bileşen diyagramları ve veri akış şemaları için **[ARCHITECTURE.md](./ARCHITECTURE.md)** dosyasına bakabilirsiniz. Bu dokümantasyon şunları içerir:
-
-- Genel sistem mimarisi diyagramı
-- Frontend ve Backend mimari yapıları
-- Veritabanı şema diyagramı
-- Authentication ve Authorization akış şemaları
-- Guard kodu sistemi akış diyagramı
-- State management ve veri akış diyagramları
-- Güvenlik katmanları ve deployment mimarisi
-
 ## 🚀 Kurulum ve Demo
 
 > **Önemli Not**: Bu proje ticari olarak kullanılmaktadır ve kaynak kodları paylaşılmamaktadır. Sistem, özel bir SaaS çözümü olarak geliştirilmiş ve müşterilere özel olarak sunulmaktadır.
@@ -131,7 +119,3 @@ Demo erişimi veya sistem hakkında daha fazla bilgi almak için lütfen iletiş
 **Hüseyin Gençan**
 
 Bu sistem, modern web teknolojileri ve best practice'ler kullanılarak geliştirilmiştir. Sistemin tüm bileşenleri, ölçeklenebilirlik, güvenlik ve performans göz önünde bulundurularak tasarlanmıştır.
-
----
-
-**Not**: Bu README, sistemin genel özelliklerini ve teknik yaklaşımını tanıtmak amacıyla hazırlanmıştır. Detaylı teknik dokümantasyon ve kaynak kodlar ticari kullanım için özel olarak sağlanmaktadır.
