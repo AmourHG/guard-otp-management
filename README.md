@@ -113,9 +113,9 @@ Bu proje, çeşitli platformlarda oyun hesabı satan satıcıların müşteriler
 > **Önemli Not**: Bu proje ticari olarak kullanılmaktadır ve kaynak kodları paylaşılmamaktadır. Sistem, özel bir SaaS çözümü olarak geliştirilmiş ve müşterilere özel olarak sunulmaktadır.
 
 Demo erişimi veya sistem hakkında daha fazla bilgi almak için lütfen iletişime geçin.
-
+Mail: hgencaan@gmail.com
 ## 👨‍💻 Geliştirici
 
-**Hüseyin Gençan**
+**Hüseyin Gencan**
 
 Bu sistem, modern web teknolojileri ve best practice'ler kullanılarak geliştirilmiştir. Sistemin tüm bileşenleri, ölçeklenebilirlik, güvenlik ve performans göz önünde bulundurularak tasarlanmıştır.
